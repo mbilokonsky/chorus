@@ -1,3 +1,10 @@
+# THIS REPOSITORY HAS MOVED 🔴
+"Chorus" as an app was an early prototype for a system that has evolved significantly beyond
+what is articulated here. This repo is now archived, and chorus is no longer available on NPM.
+If you're curious about what this turned into, please check out [bombadil-labs/loam](https://github.com/bombadil-labs/loam).
+
+
+
 # Chorus
 
 **Chorus doesn't store what happened. It stores what was believed — by whom, since when, on
